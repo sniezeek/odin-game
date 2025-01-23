@@ -1,0 +1,5 @@
+.DS_Store
+odin-game
+*.exe
+*.out
+*.bin
